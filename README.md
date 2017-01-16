@@ -2,7 +2,8 @@
 
   This is a AngularJS HealthCare project as we already know the popularity of angular, 
   it is very powerful javascript library.I have created required controllers & modules 
-  Project takes data from JSON format as database and shows fields data dynamically
+  Project takes data from JSON format as database and shows fields data dynamically. 
+  I have already created this same project using php7 laravel5.3 MVC in rest style this is its other version 
   This project contains currently only GUI part
   of HealtCare Project
   
