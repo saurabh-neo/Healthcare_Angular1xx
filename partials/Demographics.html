@@ -2,32 +2,45 @@
 <div class="jumbotron" style="">							
 	 <div class="container" id="reg" style="max-width:850px;padding:0px 0px 0px;">
 		
-		<table border=1>
-			<tr> 
-				<td bgcolor="#3498DB" align="right"> Demographics </td>
-				<td>
-					<button name="savebutton1" value="OK" type="submit" style="float:right">Save</button>
-					
-				</td>
-			</tr>
+						<h3>Demographics												
+							<button name="savebutton1" type="submit" style="margin-left:720px;margin-top:-50px" class="btn btn-primary">SAVE</button>
+						</h3>
 			
-			<tr> 
-				<td bgcolor="#3498DB" align="right">Gender </td>
-				<td>
-					<select name="Gender">
-						<option value="Select" selected>Select</option>
-						<option value="Male">Male</option>
-						<option value="Female">Female</option>
-					</select>
-				</td>
-			</tr>
+						<h4><strong>Basic Details</strong></h4>
+						<div class="" style="max-width:800px;padding:60px 20px;border:1px solid black;border-radius: 25px;">
+							<div class="form-group">
+								<label for="gender" class ="control-label col-sm-3">Gender</label>
+								<div class="col-sm-4">
+									<select class="selectpicker form-control" id="gender" name="gender">
+										<option value="" selected disabled>Please select</option>
+										<option value="Male">Male</option>
+										<option value="Female">Female</option>
+									</select>
+								</div>
+							</div>
 			
 			<tr> 
 				<td bgcolor="#3498DB" align="right">Race <br> (per federal mandate)</td>
 				<td>
 					
-					<select class="form-control" ng-model="SelectedRace" ng-options="c.S_no as c.Categories for c in race.data"></select>
-					
+                <div class="form-group">
+								<div class="col-sm-4">
+                    <label for="race" class ="control-label col-sm-3">Race</label>
+					<select class="form-control selectpicker" ng-model="SelectedRace" ng-options="c.S_no as c.Categories for c in race.data"></select>
+				
+                    </div>
+                    </div>
+                    
+							<div class="form-group">
+								<label for="race" class ="control-label col-sm-3">Race</label>
+								<div class="col-sm-4">
+                                    <select class="form-control selectpicker" ng-model="SelectedRace" ng-options="c.S_no as c.Categories for c in race.data"></select>
+								</div>
+							</div>
+
+                    
+                    
+
 				</td>
 			</tr>
 			
@@ -83,12 +96,14 @@
 						<td><input type="text" name="draddrs"/>
 						</td>
 					</tr>
-					
-					
+         </div>
+
+         
+			<h4><strong>Physical Address</strong></h4>
+     		<div class="" style="max-width:800px;padding:60px 20px;border:1px solid blue;border-radius: 25px;">
+
 					<tr>
-						<td bgcolor="#3498DB" align="right">Physical Address </td>
 						<td>
-							<table>
 								<tr>
 									<td>Address 1</td> 
 									<td><input type="text" require name="P_Address1" /></td>
@@ -117,9 +132,9 @@
 									<td>ZipCode</td>	
 									<td><input type="text" name="P_ZipCode" /></td>
 								</tr>
-							</table>
 						</td>
-					</tr>
+                  </tr>
+         </div>
 					
 					
 					<tr>
