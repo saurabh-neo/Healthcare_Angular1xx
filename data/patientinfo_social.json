@@ -1,0 +1,10 @@
+[
+  {
+    "S_no": 1,
+    "Patient_ID": 1,
+    "Parents_MaritalStatus": "Single",
+    "Livewith": "Alone",
+    "Occupation": "BE",
+    "Pets": "Dog"
+  }
+]

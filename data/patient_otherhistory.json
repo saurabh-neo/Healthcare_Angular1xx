@@ -1,0 +1,15 @@
+[
+  {
+    "S_no": 1,
+    "Patient_ID": 1,
+    "OtherMedCondition": "asdfghjkl",
+    "Yearofsurgery": "0000-00-00",
+    "Surgery_Name": "aabb",
+    "Location_surgery": "pune",
+    "Allergies": "ttyy",
+    "Pharmacy": "uuii",
+    "Medication_Name": "oopp",
+    "Medication_Strength": "llkk",
+    "Medication_doseform": "jjhh"
+  }
+]

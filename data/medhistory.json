@@ -1,0 +1,286 @@
+[
+  {
+    "s_no": 0,
+    "MedhistoryType": "AAA"
+  },
+  {
+    "s_no": 1,
+    "MedhistoryType": "ADHD"
+  },
+  {
+    "s_no": 2,
+    "MedhistoryType": "Alcohol/Substance Abuse"
+  },
+  {
+    "s_no": 3,
+    "MedhistoryType": "Allergies"
+  },
+  {
+    "s_no": 4,
+    "MedhistoryType": "Alzheimer's"
+  },
+  {
+    "s_no": 5,
+    "MedhistoryType": "Anxiety"
+  },
+  {
+    "s_no": 6,
+    "MedhistoryType": "Arthritis"
+  },
+  {
+    "s_no": 7,
+    "MedhistoryType": "Asthama"
+  },
+  {
+    "s_no": 8,
+    "MedhistoryType": "Atrial Fibrillation"
+  },
+  {
+    "s_no": 9,
+    "MedhistoryType": "Back Pain\t Chronic"
+  },
+  {
+    "s_no": 10,
+    "MedhistoryType": "Bleeding Problems"
+  },
+  {
+    "s_no": 11,
+    "MedhistoryType": "CAD"
+  },
+  {
+    "s_no": 12,
+    "MedhistoryType": "Cancer"
+  },
+  {
+    "s_no": 13,
+    "MedhistoryType": "Cancer - Breast"
+  },
+  {
+    "s_no": 14,
+    "MedhistoryType": "Cancer - Colon"
+  },
+  {
+    "s_no": 15,
+    "MedhistoryType": "Cancer - Prostate"
+  },
+  {
+    "s_no": 16,
+    "MedhistoryType": "Cancer - Skin"
+  },
+  {
+    "s_no": 17,
+    "MedhistoryType": "Cancer - Thyroid"
+  },
+  {
+    "s_no": 18,
+    "MedhistoryType": "CHF"
+  },
+  {
+    "s_no": 19,
+    "MedhistoryType": "COPD"
+  },
+  {
+    "s_no": 20,
+    "MedhistoryType": "Crohns Disease"
+  },
+  {
+    "s_no": 21,
+    "MedhistoryType": "CVA"
+  },
+  {
+    "s_no": 22,
+    "MedhistoryType": "Dementia"
+  },
+  {
+    "s_no": 23,
+    "MedhistoryType": "Depression"
+  },
+  {
+    "s_no": 24,
+    "MedhistoryType": "Diabetes"
+  },
+  {
+    "s_no": 25,
+    "MedhistoryType": "Epilespy"
+  },
+  {
+    "s_no": 26,
+    "MedhistoryType": "Erectile Dysfunction"
+  },
+  {
+    "s_no": 27,
+    "MedhistoryType": "Fibromyalgia"
+  },
+  {
+    "s_no": 28,
+    "MedhistoryType": "GI Bleeding"
+  },
+  {
+    "s_no": 29,
+    "MedhistoryType": "Gout"
+  },
+  {
+    "s_no": 30,
+    "MedhistoryType": "Head Concussion"
+  },
+  {
+    "s_no": 31,
+    "MedhistoryType": "Headaches / Chronic"
+  },
+  {
+    "s_no": 32,
+    "MedhistoryType": "Hearing Loss"
+  },
+  {
+    "s_no": 33,
+    "MedhistoryType": "Heart Attack"
+  },
+  {
+    "s_no": 34,
+    "MedhistoryType": "Heart Disease"
+  },
+  {
+    "s_no": 35,
+    "MedhistoryType": "Heartburn"
+  },
+  {
+    "s_no": 36,
+    "MedhistoryType": "High Blood Pressure"
+  },
+  {
+    "s_no": 37,
+    "MedhistoryType": "High Cholesterol"
+  },
+  {
+    "s_no": 38,
+    "MedhistoryType": "HTN"
+  },
+  {
+    "s_no": 39,
+    "MedhistoryType": "Hyperlipidemia"
+  },
+  {
+    "s_no": 40,
+    "MedhistoryType": "Hyperthyrodism"
+  },
+  {
+    "s_no": 41,
+    "MedhistoryType": "IDDM"
+  },
+  {
+    "s_no": 42,
+    "MedhistoryType": "Insomnia"
+  },
+  {
+    "s_no": 43,
+    "MedhistoryType": "Irritable Bowel Syndrome"
+  },
+  {
+    "s_no": 44,
+    "MedhistoryType": "MI"
+  },
+  {
+    "s_no": 45,
+    "MedhistoryType": "NIDDM"
+  },
+  {
+    "s_no": 46,
+    "MedhistoryType": "Obesity"
+  },
+  {
+    "s_no": 47,
+    "MedhistoryType": "Osteporosis"
+  },
+  {
+    "s_no": 48,
+    "MedhistoryType": "PID"
+  },
+  {
+    "s_no": 49,
+    "MedhistoryType": "Reflux"
+  },
+  {
+    "s_no": 50,
+    "MedhistoryType": "Seizures"
+  },
+  {
+    "s_no": 51,
+    "MedhistoryType": "Sickle Cell"
+  },
+  {
+    "s_no": 52,
+    "MedhistoryType": "Stroke"
+  },
+  {
+    "s_no": 53,
+    "MedhistoryType": "Surgery\t Appendectomy"
+  },
+  {
+    "s_no": 54,
+    "MedhistoryType": "Surgery\tBypass"
+  },
+  {
+    "s_no": 55,
+    "MedhistoryType": "Surgery\tCABG"
+  },
+  {
+    "s_no": 56,
+    "MedhistoryType": "Surgery\tCholecystectomy"
+  },
+  {
+    "s_no": 57,
+    "MedhistoryType": "Surgery\tCoronary Artery Bypass Graftling"
+  },
+  {
+    "s_no": 58,
+    "MedhistoryType": "Surgery\tHysterectomy"
+  },
+  {
+    "s_no": 59,
+    "MedhistoryType": "Surgery\t Joint Replacement"
+  },
+  {
+    "s_no": 60,
+    "MedhistoryType": "Surgery\t Mastectomy"
+  },
+  {
+    "s_no": 61,
+    "MedhistoryType": "Surgery\t Sinus Surgery"
+  },
+  {
+    "s_no": 62,
+    "MedhistoryType": "Surgery \tThyroidectomy"
+  },
+  {
+    "s_no": 63,
+    "MedhistoryType": "Thyroid Condition"
+  },
+  {
+    "s_no": 64,
+    "MedhistoryType": "TIA"
+  },
+  {
+    "s_no": 65,
+    "MedhistoryType": "Tonsilitis"
+  },
+  {
+    "s_no": 66,
+    "MedhistoryType": "Tuberculosis Expossure"
+  },
+  {
+    "s_no": 67,
+    "MedhistoryType": "UIcer"
+  },
+  {
+    "s_no": 68,
+    "MedhistoryType": "UIcers"
+  },
+  {
+    "s_no": 69,
+    "MedhistoryType": "UTI\tChronic"
+  },
+  {
+    "s_no": 70,
+    "MedhistoryType": "Vision Loss"
+  }
+]

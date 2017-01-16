@@ -1,0 +1,12 @@
+[
+  {
+    "S_no": 1,
+    "Patient_ID": 1,
+    "Addrs_type": "Physical",
+    "Address1": "zxc",
+    "Address2": "asd",
+    "City": "qwe",
+    "State": "California",
+    "Zip_code": 147
+  }
+]

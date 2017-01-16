@@ -1,0 +1,15 @@
+[
+  {
+    "S_no": 1,
+    "Patient_ID": 1,
+    "Smoke_Detector": "Yes",
+    "Smoking_Status": "Smoke Daily",
+    "Comments": "Higher",
+    "Start_Date": "2017-01-14",
+    "Quite_Date": "2017-01-14",
+    "Smoke_Exposure": "Yes",
+    "CO_detector": "No",
+    "Firearm_Present": "Yes",
+    "Firearm_Secured": "No"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "S_no": 1,
+    "Patient_ID": 1,
+    "s_no_medhistory": 44,
+    "MedHistory": "MI"
+  },
+  {
+    "S_no": 2,
+    "Patient_ID": 1,
+    "s_no_medhistory": 45,
+    "MedHistory": "NIDDM"
+  }
+]

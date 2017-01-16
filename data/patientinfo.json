@@ -1,0 +1,15 @@
+[
+  {
+    "S_no": 1,
+    "Patient_ID": 1,
+    "Gender": "Male",
+    "Race": "American Indian or Alaska Native",
+    "Ethinicity": "American",
+    "Pref_Language": "English",
+    "Home_Phone": 123,
+    "Cell_Phone": 456,
+    "Work_Phone": 789,
+    "Email_Addrs": "swap460@gmail.com",
+    "Direct_Addrs": "H.No-360\t Sr.No-22/1\t Gurudatta Colony\tAmbegaon Bk\t Pune-46"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "S_no": 0,
+    "Relationtype": "Father"
+  },
+  {
+    "S_no": 1,
+    "Relationtype": "Mother"
+  },
+  {
+    "S_no": 2,
+    "Relationtype": "Brother"
+  },
+  {
+    "S_no": 3,
+    "Relationtype": "Sister"
+  },
+  {
+    "S_no": 4,
+    "Relationtype": "Uncle"
+  },
+  {
+    "S_no": 5,
+    "Relationtype": "Aunt"
+  },
+  {
+    "S_no": 6,
+    "Relationtype": "Friend"
+  }
+]

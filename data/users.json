@@ -1,0 +1,17 @@
+[
+  {
+    "Patient_ID": 1,
+    "Patient_Name": "abcd",
+    "Password": 1234
+  },
+  {
+    "Patient_ID": 2,
+    "Patient_Name": "efgh",
+    "Password": 5678
+  },
+  {
+    "Patient_ID": 3,
+    "Patient_Name": "xyz",
+    "Password": 123456
+  }
+]

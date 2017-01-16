@@ -1,0 +1,20 @@
+[
+  {
+    "S_no": 1,
+    "Patient_ID": 1,
+    "ParentMedHistory": "Heartburn",
+    "Relationship": "Friend"
+  },
+  {
+    "S_no": 2,
+    "Patient_ID": 1,
+    "ParentMedHistory": "IDDM",
+    "Relationship": "Brother"
+  },
+  {
+    "S_no": 3,
+    "Patient_ID": 1,
+    "ParentMedHistory": "MI",
+    "Relationship": "Sister"
+  }
+]

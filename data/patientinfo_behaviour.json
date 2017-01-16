@@ -1,0 +1,20 @@
+[
+  {
+    "S_no": 1,
+    "Patient_ID": 1,
+    "Type_Daycare": "A",
+    "Daycare_PerWeek": 1,
+    "Current_SchoolLevel": "Graduate",
+    "Average_Grade": "A",
+    "Activities": "zxcvbnm",
+    "Bike_Helmet": "Regular",
+    "Seat_Belts": "Irregular",
+    "Car_Seats": "B",
+    "Average_Diet": "C",
+    "Milk_Use": "A",
+    "Number_bf": 1,
+    "Water_Use": "B",
+    "Sleeping_Location": "A",
+    "Sleeping_Frequency": "8-9 hrs"
+  }
+]

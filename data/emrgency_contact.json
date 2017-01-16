@@ -1,0 +1,47 @@
+[
+  {
+    "S_no": 1,
+    "Patient_ID": 1,
+    "Emergency_contact_type": "Emergency Contact1",
+    "Emergency_name": "poi",
+    "Emergency_Addrs1": "uyt",
+    "Emergency_Addrs2": "rewq",
+    "Emergency_city": "asd",
+    "Emergency_state": "Michigan",
+    "Emergency_Zipcode": 789,
+    "Emergency_hphone": 147,
+    "Emergency_cphone": 258,
+    "Emergency_wphone": 369,
+    "Emergency_relation": "Father"
+  },
+  {
+    "S_no": 2,
+    "Patient_ID": 1,
+    "Emergency_contact_type": "Emergency Contact2",
+    "Emergency_name": "lkj",
+    "Emergency_Addrs1": "hgf",
+    "Emergency_Addrs2": "dsa",
+    "Emergency_city": "zxc",
+    "Emergency_state": "New York",
+    "Emergency_Zipcode": 456,
+    "Emergency_hphone": 369,
+    "Emergency_cphone": 258,
+    "Emergency_wphone": 147,
+    "Emergency_relation": "Brother"
+  },
+  {
+    "S_no": 3,
+    "Patient_ID": 1,
+    "Emergency_contact_type": "Emergency Contact3",
+    "Emergency_name": "mnb",
+    "Emergency_Addrs1": "vcx",
+    "Emergency_Addrs2": "zxcv",
+    "Emergency_city": "bnm",
+    "Emergency_state": "California",
+    "Emergency_Zipcode": 123,
+    "Emergency_hphone": 258,
+    "Emergency_cphone": 147,
+    "Emergency_wphone": 369,
+    "Emergency_relation": "Friend"
+  }
+]
