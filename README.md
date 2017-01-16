@@ -8,13 +8,16 @@
   
 ## Steps to Run
 - 1] Open git bash and Clone the project using command 
-  git clone https://github.com/saurabh-neo/Healthcare_Angular1xx.git
-    or simply download zip file
+  
+   git clone https://github.com/saurabh-neo/Healthcare_Angular1xx.git
+  
+   or simply download zip file
     
 - 2] Put all files in Apache htdocs folder
    
 - 3] Run project using
-      localhost/Healthcare/index.html
+   
+    localhost/Healthcare/index.html
       
       That's All...!!
       Happy Coding...!!
