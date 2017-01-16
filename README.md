@@ -14,7 +14,7 @@
   
    or simply download zip file
     
-- 2] Put all files in Apache htdocs folder
+- 2] Put project folder in Apache htdocs folder
    
 - 3] Run project using
    
