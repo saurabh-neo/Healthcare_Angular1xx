@@ -7,7 +7,7 @@
 						</h3>
 			
 						<h4><strong>Basic Details</strong></h4>
-						<div class="" style="max-width:800px;padding:60px 20px;border:1px solid black;border-radius: 25px;">
+						<div class="" style="max-width:800px;padding:60px 20px;border:1px solid brown;border-radius: 25px;">
 							<div class="form-group">
 								<label for="gender" class ="control-label col-sm-3">Gender</label>
 								<div class="col-sm-4">
@@ -137,11 +137,18 @@
          </div>
 					
 					
-					<tr>
-						<td bgcolor="#3498DB" align="right">Billing Address </td>
+                  <h4><strong>Billing Address</strong></h4>
+		          <div class="" style="max-width:800px;padding:60px 20px;border:1px solid blue;border-radius: 25px;">
 						<td>
 							<table>
-								<tr><input type="checkbox" name="copyaddrs" value="on" onclick="copyphysical(this.form)"> Copy Physical Address</tr>
+							<div class="form-group">
+								<div class="material-switch">
+									<span class="control-label col-sm-3" style="margin-left:20px"><strong>Copy Physical Address</strong></span>
+									<input id="checkbox1" name="copyaddrs" type="checkbox"/>
+									<label for="checkbox1" class="label-info"></label>
+								</div><br>
+							</div>
+
 								<tr>
 									<td>Address 1</td> 
 									<td><input type="text" name="B_Address1" /></td>
@@ -173,7 +180,12 @@
 							</table>
 						</td>
 					</tr>
-					
+    </div>	
+    
+    
+    						<h3>General</h3>
+						<div class="" style="max-width:800px;padding:60px 20px;border:1px solid blue;border-radius: 25px;">
+
 					<tr>
 						<td bgcolor="#3498DB" align="right">Insurance</td>
 						<td>
@@ -205,9 +217,11 @@
 							</select>
 						</td>
 					</tr>
-					
-					<tr>
-						<td bgcolor="#3498DB" align="right">Employer </td>
+    </div>	
+		
+    
+						<h4><strong>Employer : </strong></h4>
+						<div class="" style="max-width:800px;padding:60px 20px;border:1px solid blue;border-radius: 25px;">
 						<td>
 							<table>
 								
@@ -246,9 +260,13 @@
 							</table>
 						</td>
 					</tr>
-					
-					<tr>
-						<td bgcolor="#3498DB" align="right">Emergency Contact #1 </td>
+    </div>
+
+
+
+
+						<h4><strong>Emergency Contact 1</strong></h4>
+						<div class="" style="max-width:800px;padding:60px 20px;border:1px solid blue;border-radius: 25px;">
 						<td>
 							<table>
 								<tr>
@@ -312,9 +330,11 @@
 									</table>
 								</td>
 							</tr>
-							
-							<tr>
-								<td bgcolor="#3498DB" align="right">Emergency Contact #2 </td>
+</div>
+
+
+                        <h4><strong>Emergency Contact 2</strong></h4>
+						<div class="" style="max-width:800px;padding:60px 20px;border:1px solid blue;border-radius: 25px;">
 								<td>
 									<table>
 										<tr>
@@ -380,9 +400,11 @@
 											</table>
 										</td>
 									</tr>
-									
-									<tr>
-										<td bgcolor="#3498DB" align="right">Emergency Contact #3 </td>
+</div>
+
+
+						<h4><strong>Emergency Contact 3</strong></h4>
+						<div class="" style="max-width:800px;padding:60px 20px;border:1px solid blue;border-radius: 25px;">
 										<td>
 											<table>
 												<tr>
@@ -446,14 +468,14 @@
 													</table>
 												</td>
 											</tr>
-											
-											<tr>
-												<td bgcolor="#3498DB" align="right"></td>
-												<td>
-													<button name="savebutton2" value="OK" type="Submit" style="float:right">Save</button>
-												</td>
-												
-											</tr>
+        </div>
+
+
+						<div class="form-group" style="margin-top:50px">
+							<div class="col-sm-offset-5 col-sm-8">
+								<button type="submit" class="btn btn-primary btn-lg"> SAVE </button>
+							</div>
+                        </div>							
 											
 										</table>
 										
